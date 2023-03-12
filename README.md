@@ -1,5 +1,5 @@
 # dinosaur-ai #
-Internet-down dinosaur game, but with neural networks and genetic algorithms. I found this game while browsing through middle school projects. 
+Internet-down dinosaur game, but with neural networks and genetic algorithms. I found this project while browsing through middle school projects. 
 
 <div align="center"> 
   <img src="Dinosaur game.gif"/>
